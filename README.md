@@ -147,6 +147,7 @@ Github Account, Git Skills
 ## Roadmap
 
 - [Image Classification Model (MNIST & CIFAR-10)](https://researchengineer.wordpress.com/2024/11/29/week-1-2-foundational-deep-learning-for-computer-vision/)
+  - [Google Colab Notebook Reference](https://colab.research.google.com/drive/1VLREdBBr7CqtLHB0pkWYa7H5j7a6AnMM?usp=sharing)
 - [Image AutoEncoder for Dimensionality Reduction]()
 - [Replicate Pre-trained Object Detection Model YOLOv5 witt fast.ai](https://researchengineer.wordpress.com/2024/11/29/week-1-2-foundational-deep-learning-for-computer-vision/)
 - [Fine-Tune Pre-trained model]()

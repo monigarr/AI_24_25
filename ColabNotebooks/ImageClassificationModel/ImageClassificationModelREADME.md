@@ -1,4 +1,11 @@
-This directory includes a few sample datasets to get you started.
+this directory includes a few trained Models I created with my Google Colab Notebook:
+*   [Image Classification Model Google Colab Notebook](https://colab.research.google.com/drive/1VLREdBBr7CqtLHB0pkWYa7H5j7a6AnMM?usp=sharing)
+
+*   autoencoder_model.h5
+
+*   autoencoder_model.keras
+
+This directory includes a few sample datasets.
 
 *   `california_housing_data*.csv` is California housing data from the 1990 US
     Census; more information is available at:
