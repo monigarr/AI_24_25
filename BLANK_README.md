@@ -29,23 +29,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/monigarr/AI_24_25">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">AI 24 25</h3>
 
   <p align="center">
-    project_description
+    MoniGarr's AI experiments: 24 25
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/monigarr/AI_24_25"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/monigarr/AI_24_25">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/monigarr/AI_24_25/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/monigarr/AI_24_25/issues">Request Feature</a>
   </p>
 </div>
 
@@ -92,14 +92,24 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [ResearchEngineer Blog](https://researchengineer.wordpress.com)
+* [Python](https://python.org/)
+* [Google Colab](https://colab.research.google.com)
+* [DeepMind Google](https://deepmind.google/)
+* [Google Gemini](https://www.gemini.com/)
+* [Google AI Studio](https://aistudio.google.com/)
+* [OpenAI](https://www.openai.com/)
+* [Github](https://www.github.com)
+* [TensorFlow](https://www.tensorflow.org)
+* [Kaggle](https://www.kaggle.com)
+* [HuggingFace](https://www.huggingface.io)
+* [Fast.ai](https://www.fast.ai)
+* [DeeplLearning.ai](https://www.deeplearning.ai/)
+* [Pub.dev](https://www.pub.dev/)
+* [Firebase Vertex](https://firebase.google.com/docs/vertex-ai)
+* [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt)
+* []()
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -108,31 +118,19 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
+Github Account, Git Skills
+* git clone https://www.github.com/monigarr/AI_24_25
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+   git clone https://github.com/monigarr/AI_24_25.git
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -142,9 +140,6 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -153,12 +148,52 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
+- [Image Classification Model (MNIST & CIFAR-10)](https://researchengineer.wordpress.com/2024/11/29/week-1-2-foundational-deep-learning-for-computer-vision/)
+- [Image AutoEncoder for Dimensionality Reduction]()
+- [Replicate Pre-trained Object Detection Model YOLOv5 witt fast.ai](https://researchengineer.wordpress.com/2024/11/29/week-1-2-foundational-deep-learning-for-computer-vision/)
+- [Fine-Tune Pre-trained model]()
+- [Object Detection Model from Scratch]()
+- [Build Semantic Segmentation Model for Image Classification U-Net]()
+- [Data Augmentation](https://researchengineer.wordpress.com/2024/11/30/week-3-4-deep-dive-into-computer-vision-techniques/)
+- [Kaggle Competition Object Detection]()
+- [Kaggle Competition Image Segmentation CIFAR-10 Classify 10 Different Objects]()
+- [Choose Kaggle Dataset, Build Model to Solve Computer Vision Task ie: traffic sign detection]()
+- [Deploy My Own Pre-Trained Model with TensorRT, compare Inference Speed with Stanadr TensorFlow Execution]()
+- [Experiment with optimizing my model for deployment using TensorRT's optimizatoin techniques]()
+- [Convert a PyTorch model trained earlier to the ONNX format.]()
+- [Explore running the converted ONNX model on a different platform (e.g., mobile device) using ONNX Runtime.]()
+- [Explore 3D Computer Vision]()
+- [Explore Visual Odometry]()
+- [Explore SLAM]()
+- [Personal Projects]()
+  - [Real-time Object Detection & Tracking]()
+      - []()
+      - []()
+      - []()
+      - []()
+  - [Autonomous Vehicle Simulations]()
+      - [Build on my past project RAPS, ROS, PCL]()
+      - []()
+      - []()
+      - []()
+  - [Image Generation with GANs vs SD](https://aiarts.medium.com/)
+      - []()
+      - []()
+      - []()
+      - []()
+  - [Medical Image Analysis]()
+      - [Build on my past project lung xrays]()
+      - []()
+      - []()
+      - []()
+  - [Facial Recognition & Emotion Detection]()
+      - [Build on my past project AIGeneration.blog Emotions](https://www.aigeneration.blog)
+      - []()
+      - []()
+      - []()
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+
+See the [open issues](https://github.com/monigarr/AI_24_25/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -194,9 +229,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@3DTechArtist](https://x.com/3DTechArtist) - monigarr@monigarr.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/monigarr/AI_24_25](https://github.com/monigarr/AI_24_25e)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -215,16 +250,16 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/monigarr/AI_24_25.svg?style=for-the-badge
+[contributors-url]: https://github.com/monigarr/AI_24_25/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/monigarr/AI_24_25.svg?style=for-the-badge
+[forks-url]: https://github.com/monigarr/AI_24_25/network/members
+[stars-shield]: https://img.shields.io/github/stars/monigarr/AI_24_25.svg?style=for-the-badge
+[stars-url]: https://github.com/monigarr/AI_24_25/stargazers
+[issues-shield]: https://img.shields.io/github/issues/monigarr/AI_24_25.svg?style=for-the-badge
+[issues-url]: https://github.com/monigarr/AI_24_25/issues
+[license-shield]: https://img.shields.io/github/license/monigarr/AI_24_25.svg?style=for-the-badge
+[license-url]: https://github.com/monigarr/AI_24_25/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/3dtechartist
 [product-screenshot]: images/screenshot.png
