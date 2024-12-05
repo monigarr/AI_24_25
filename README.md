@@ -36,7 +36,7 @@
 <h3 align="center">AI 24 25</h3>
 
   <p align="center">
-    MoniGarr's AI experiments: 24 25
+    MoniGarr's AI experiments
     <br />
     <a href="https://github.com/monigarr/AI_24_25"><strong>Explore the docs »</strong></a>
     <br />
@@ -84,7 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+A repository where I share some of my AI research, development and experiments.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -123,13 +123,11 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 Github Account, Git Skills
-* git clone https://www.github.com/monigarr/AI_24_25
-  ```
 
 ### Installation
 
 1. Clone the repo
-   ```sh
+   ```
    git clone https://github.com/monigarr/AI_24_25.git
    ```
 
@@ -167,30 +165,30 @@ Github Account, Git Skills
 - [Explore SLAM]()
 - [Personal Projects]()
   - [Real-time Object Detection & Tracking]()
-      - []()
-      - []()
-      - []()
-      - []()
+      - [Dataset: COCO or my own custom data]()
+      - [Model: YOLOv8 OR EfficientDet]()
+      - [Real-time Implementation: OpenCV ]()
+      - [Deploy: Raspberry Pi or Mobile Device]()
   - [Autonomous Vehicle Simulations]()
       - [Build on my past project RAPS, ROS, PCL]()
-      - []()
-      - []()
-      - []()
+      - [environment: UnReal or Unity, NVIDIA Omniverse Simulations]()
+      - [Perception: CV Pipeline detect objects, lanes, traffic signs, movement]()
+      - [Control: steer, acceleration, braking, speed]()
   - [Image Generation with GANs vs SD](https://aiarts.medium.com/)
-      - []()
-      - []()
-      - []()
-      - []()
+      - [Dataset: ImageNet or My Own]()
+      - [Model: GAN vs SD]()
+      - [Experiment: DCGAN, WGAN-GP, StyleGAN]()
+      - [Apps: use genai for data segmentation, art generation, create synthetic datasets]()
   - [Medical Image Analysis]()
       - [Build on my past project lung xrays]()
-      - []()
-      - []()
-      - []()
+      - [Dataset: ImageNet or Custom]()
+      - [Model: DL model image segmentation, object detection, classifiction]()
+      - [Apps: detect disease, segment tumors, analyze medical images]()
   - [Facial Recognition & Emotion Detection]()
       - [Build on my past project AIGeneration.blog Emotions](https://www.aigeneration.blog)
-      - []()
-      - []()
-      - []()
+      - [Dataset: LFW, Custom]()
+      - [Model: face reco and emotion detect]()
+      - [Apps: security systems, user auth, sentiment analysis]()
 
 
 See the [open issues](https://github.com/monigarr/AI_24_25/issues) for a full list of proposed features (and known issues).
