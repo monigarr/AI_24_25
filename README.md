@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://www.github.com/monigarr/AI_24_25
 
 A repository where I share some of my AI research, development and experiments.
 
@@ -261,4 +261,4 @@ Project Link: [https://github.com/monigarr/AI_24_25](https://github.com/monigarr
 [license-url]: https://github.com/monigarr/AI_24_25/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/3dtechartist
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot_imageclassifier.png
